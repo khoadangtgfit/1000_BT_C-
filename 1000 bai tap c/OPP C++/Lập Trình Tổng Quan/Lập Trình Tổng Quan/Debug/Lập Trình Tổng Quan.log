@@ -1,0 +1,12 @@
+﻿  Source1.cpp
+d:\1000 bt c++\1000 bai tap c\opp c++\lập trình tổng quan\lập trình tổng quan\source1.cpp(10): warning C4244: 'return' : conversion from 'float' to 'int', possible loss of data
+          d:\1000 bt c++\1000 bai tap c\opp c++\lập trình tổng quan\lập trình tổng quan\source1.cpp(17) : see reference to function template instantiation 'T MAX<int,float>(T,U)' being compiled
+          with
+          [
+              T=int
+  ,            U=float
+          ]
+d:\1000 bt c++\1000 bai tap c\opp c++\lập trình tổng quan\lập trình tổng quan\source1.cpp(12): warning C4715: 'MAX<int,float>' : not all control paths return a value
+Source.obj : error LNK2005: _main already defined in Da_Khuon_Mau_Tim_So_LonHon.obj
+Source1.obj : error LNK2005: _main already defined in Da_Khuon_Mau_Tim_So_LonHon.obj
+D:\1000 BT C++\1000 bai tap c\OPP C++\Lập Trình Tổng Quan\Debug\Lập Trình Tổng Quan.exe : fatal error LNK1169: one or more multiply defined symbols found

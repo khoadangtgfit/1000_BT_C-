@@ -1,0 +1,10 @@
+﻿  Source.cpp
+d:\1000 bt c++\1000 bai tap c\opp c++\timsolonhon(dakhonhinh)\timsolonhon(dakhonhinh)\source.cpp(10): warning C4244: 'return' : conversion from 'int' to 'float', possible loss of data
+          d:\1000 bt c++\1000 bai tap c\opp c++\timsolonhon(dakhonhinh)\timsolonhon(dakhonhinh)\source.cpp(17) : see reference to function template instantiation 'T MAX<float,int>(T,U)' being compiled
+          with
+          [
+              T=float
+  ,            U=int
+          ]
+d:\1000 bt c++\1000 bai tap c\opp c++\timsolonhon(dakhonhinh)\timsolonhon(dakhonhinh)\source.cpp(12): warning C4715: 'MAX<float,int>' : not all control paths return a value
+  TimSoLonHon(dakhonhinh).vcxproj -> D:\1000 BT C++\1000 bai tap c\OPP C++\TimSoLonHon(dakhonhinh)\Debug\TimSoLonHon(dakhonhinh).exe

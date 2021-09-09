@@ -1,0 +1,18 @@
+﻿  Main.cpp
+  CongTy.cpp
+d:\1000 bt c++\1000 bai tap c\opp c++\nhanvien\nhanvien\congty.cpp(44): warning C4018: '<' : signed/unsigned mismatch
+d:\1000 bt c++\1000 bai tap c\opp c++\nhanvien\nhanvien\congty.cpp(50): warning C4018: '<' : signed/unsigned mismatch
+d:\1000 bt c++\1000 bai tap c\opp c++\nhanvien\nhanvien\congty.cpp(56): warning C4018: '<' : signed/unsigned mismatch
+d:\1000 bt c++\1000 bai tap c\opp c++\nhanvien\nhanvien\congty.cpp(65): warning C4018: '<' : signed/unsigned mismatch
+d:\1000 bt c++\1000 bai tap c\opp c++\nhanvien\nhanvien\congty.cpp(69): warning C4018: '<' : signed/unsigned mismatch
+d:\1000 bt c++\1000 bai tap c\opp c++\nhanvien\nhanvien\congty.cpp(73): warning C4018: '<' : signed/unsigned mismatch
+d:\1000 bt c++\1000 bai tap c\opp c++\nhanvien\nhanvien\congty.cpp(81): warning C4018: '<' : signed/unsigned mismatch
+d:\1000 bt c++\1000 bai tap c\opp c++\nhanvien\nhanvien\congty.cpp(88): warning C4018: '<' : signed/unsigned mismatch
+d:\1000 bt c++\1000 bai tap c\opp c++\nhanvien\nhanvien\congty.cpp(95): warning C4018: '<' : signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  NhanVien.cpp
+  NVVanPhong.cpp
+  NVSanXuat.cpp
+  NVQuanLy.cpp
+  NhanVien.vcxproj -> D:\1000 BT C++\1000 bai tap c\OPP C++\NhanVien\Debug\NhanVien.exe

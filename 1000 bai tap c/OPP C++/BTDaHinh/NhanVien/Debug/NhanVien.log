@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (NhanVien.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.cpp
+  CongTy.cpp
+d:\1000 bt c++\1000 bai tap c\opp c++\btdahinh\nhanvien\congty.cpp(47): warning C4018: '<' : signed/unsigned mismatch
+d:\1000 bt c++\1000 bai tap c\opp c++\btdahinh\nhanvien\congty.cpp(55): warning C4018: '<' : signed/unsigned mismatch
+d:\1000 bt c++\1000 bai tap c\opp c++\btdahinh\nhanvien\congty.cpp(63): warning C4018: '<' : signed/unsigned mismatch
+  Generating Code...
+  NhanVien.vcxproj -> D:\1000 BT C++\1000 bai tap c\OPP C++\BTDaHinh\Debug\BTDaHinh.exe

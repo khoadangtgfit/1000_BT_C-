@@ -1,0 +1,19 @@
+﻿  GiangVien.cpp
+  Generating Code...
+  Compiling...
+  SinhVien.cpp
+  NgheNghiep.cpp
+d:\1000 bt c++\1000 bai tap c\opp c++\bai tap da hinh\bai tap da hinh\nghenghiep.cpp(20): error C2259: 'SinhVien' : cannot instantiate abstract class
+          due to following members:
+          'int Nguoi::get2(void)' : is abstract
+          d:\1000 bt c++\1000 bai tap c\opp c++\bai tap da hinh\bai tap da hinh\nguoi.h(22) : see declaration of 'Nguoi::get2'
+d:\1000 bt c++\1000 bai tap c\opp c++\bai tap da hinh\bai tap da hinh\nghenghiep.cpp(27): error C2259: 'GiangVien' : cannot instantiate abstract class
+          due to following members:
+          'float Nguoi::get1(void)' : is abstract
+          d:\1000 bt c++\1000 bai tap c\opp c++\bai tap da hinh\bai tap da hinh\nguoi.h(21) : see declaration of 'Nguoi::get1'
+d:\1000 bt c++\1000 bai tap c\opp c++\bai tap da hinh\bai tap da hinh\nghenghiep.cpp(36): warning C4018: '<' : signed/unsigned mismatch
+d:\1000 bt c++\1000 bai tap c\opp c++\bai tap da hinh\bai tap da hinh\nghenghiep.cpp(53): warning C4018: '<' : signed/unsigned mismatch
+  Main.cpp
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Nguoi.cpp
